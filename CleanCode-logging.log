@@ -1,0 +1,11 @@
+2020-02-29 09:31:20 INFO  App:16 - Calculate: 
+	1.Simple Interest or Compound Interest
+	2.House Construction Cost Estimation
+2020-02-29 09:31:20 INFO  App:17 - Choose an option (1/2)
+2020-02-29 09:31:26 INFO  App:63 - What do you want to calculate?  
+	1.Simple Interest
+	2.Compound Interest
+2020-02-29 09:31:31 INFO  App:66 - Input principal amount
+2020-02-29 09:31:35 INFO  App:69 - Input interest rate
+2020-02-29 09:31:38 INFO  App:72 - Input total time (in years)
+2020-02-29 09:31:41 INFO  App:94 - Interest amount is 168.0
